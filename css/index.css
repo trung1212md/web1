@@ -1,0 +1,70 @@
+
+.bander{
+
+    width:97.5%;
+    height: 865px;
+    background: url('/Duannho/img/banner.jpg') center no-repeat;
+    padding: 20px;
+}
+.about-sign-in{
+    border: 1 solid red;
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
+
+.sign-in{
+    margin-right: 40px;
+    border-radius: 20px;
+    border: 1px solid green ;
+}
+.about{
+    margin-right: 10px;
+    border-radius: 20px;
+    border: 1px solid green;
+}
+.about, .sign-in{
+    text-decoration: none;/*bo gach chan*/
+    margin-top: 30px;
+   display: inline-block;
+   padding: 10px;
+   text-transform: uppercase;
+}
+.logo {
+    height: 100px;
+    margin-top: 10px;
+    margin: 180px 0px 53px 0px;
+    background: url("/Duannho/img/hapoERP.png") center no-repeat;
+}
+.text{
+    text-align: center;
+    margin-top: 30px;
+}
+.btn-start-now{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+button {
+    text-transform: uppercase;
+    background-color: green;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;/*hinh ban tay*/
+}
+.content-center{
+    
+    height: 50px;
+}
+.left, .right, .center {
+    width: 33%;
+    display:inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+}
+.img{
+    width: 30px;
+    height: 30px;
+}
